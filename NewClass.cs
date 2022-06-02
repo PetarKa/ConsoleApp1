@@ -6,10 +6,6 @@ namespace ConsoleApp1
 {
     class NewClass
     {
-        static void Main(string[] args)
-        {
-
-            //hasdhah
-        }
+        Console.WriteLine("Promjena na githubu");
     }
 }
